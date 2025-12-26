@@ -1,4 +1,5 @@
-./*_env
-./DATA/
+*_env
+# all the file DATA folder and its content
+DATA/
 *csv
 
