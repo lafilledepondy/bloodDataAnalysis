@@ -9,6 +9,7 @@ Pillow
 # Web Scraping & Networking
 requests
 beautifulsoup4
+lxml
 
 # Interactive UI (Jupyter/IPython)
 ipywidgets
