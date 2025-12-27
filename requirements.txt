@@ -16,6 +16,7 @@ ipywidgets
 
 # ML
 torch
+torchvision
 
 # Others
 openpyxl
