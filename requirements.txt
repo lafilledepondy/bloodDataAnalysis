@@ -20,3 +20,4 @@ torchvision
 
 # Others
 openpyxl
+umap-learn
