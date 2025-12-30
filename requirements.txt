@@ -3,7 +3,7 @@ numpy
 pandas
 matplotlib
 seaborn
-scikit-learn
+plotly
 Pillow
 
 # Web Scraping & Networking
@@ -13,8 +13,11 @@ lxml
 
 # Interactive UI (Jupyter/IPython)
 ipywidgets
+nbformat>=4.2
 
-# ML
+# Machine Learning & Stats
+scikit-learn
+xgboost
 torch
 torchvision
 
