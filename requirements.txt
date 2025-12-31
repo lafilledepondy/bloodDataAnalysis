@@ -1,6 +1,7 @@
 # Data Manipulation & Visualization
 numpy
 pandas
+geopandas
 matplotlib
 seaborn
 plotly
@@ -24,3 +25,4 @@ torchvision
 # Others
 openpyxl
 umap-learn
+statsmodels
